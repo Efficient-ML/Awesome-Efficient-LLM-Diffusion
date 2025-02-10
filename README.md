@@ -1,4 +1,4 @@
-# Awesome Efficient LLM and Diffusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Efficient AIGC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repo collects efficient approaches for large language models (LLMs) and diffusion models (DMs) to cope with the huge demand for computing resources. We are continuously improving the project. Welcome to PR the works (papers, repositories) missed by the repo.
 ## Table of Contents
